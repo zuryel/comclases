@@ -1,0 +1,67 @@
+c:\users\fernanda\documents\visual studio 2017\Projects\App1\App1\obj\Debug\App1.csprojResolveAssemblyReference.cache
+C:\Users\Fernanda\Documents\Visual Studio 2017\Projects\App1\App1\bin\Debug\App1.dll.config
+C:\Users\Fernanda\Documents\Visual Studio 2017\Projects\App1\App1\bin\Debug\App1.dll
+C:\Users\Fernanda\Documents\Visual Studio 2017\Projects\App1\App1\bin\Debug\App1.pdb
+C:\Users\Fernanda\Documents\Visual Studio 2017\Projects\App1\App1\bin\Debug\App1.App1.apk
+C:\Users\Fernanda\Documents\Visual Studio 2017\Projects\App1\App1\bin\Debug\App1.App1-Signed.apk
+C:\Users\Fernanda\Documents\Visual Studio 2017\Projects\App1\App1\bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+C:\Users\Fernanda\Documents\Visual Studio 2017\Projects\App1\App1\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll
+C:\Users\Fernanda\Documents\Visual Studio 2017\Projects\App1\App1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Fernanda\Documents\Visual Studio 2017\Projects\App1\App1\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Fernanda\Documents\Visual Studio 2017\Projects\App1\App1\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Fernanda\Documents\Visual Studio 2017\Projects\App1\App1\bin\Debug\Microsoft.WindowsAzure.Mobile.xml
+C:\Users\Fernanda\Documents\Visual Studio 2017\Projects\App1\App1\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.xml
+C:\Users\Fernanda\Documents\Visual Studio 2017\Projects\App1\App1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Fernanda\Documents\Visual Studio 2017\Projects\App1\App1\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Fernanda\Documents\Visual Studio 2017\Projects\App1\App1\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Fernanda\Documents\Visual Studio 2017\Projects\App1\App1\obj\Debug\App1.dll
+C:\Users\Fernanda\Documents\Visual Studio 2017\Projects\App1\App1\obj\Debug\App1.pdb
+C:\Users\Fernanda\Documents\Visual Studio 2017\Projects\App1\App1\obj\Debug\android\bin\App1.App1.apk
+C:\Users\Fernanda\Documents\Visual Studio 2017\Projects\App1\App1\obj\Debug\res\layout\main.xml
+C:\Users\Fernanda\Documents\Visual Studio 2017\Projects\App1\App1\obj\Debug\res\values\strings.xml
+C:\Users\Fernanda\Documents\Visual Studio 2017\Projects\App1\App1\obj\Debug\res\drawable\icon.png
+C:\Users\Fernanda\Documents\Visual Studio 2017\Projects\App1\App1\obj\Debug\R.cs.flag
+C:\Users\Fernanda\Documents\Visual Studio 2017\Projects\App1\App1\obj\Debug\uploadflags.txt
+C:\Users\Fernanda\Documents\Visual Studio 2017\Projects\App1\App1\bin\Debug\App1.dll.mdb
+C:\Users\Fernanda\Documents\Visual Studio 2017\Projects\App1\App1\obj\Debug\android\assets\App1.dll.mdb
+C:\Users\Sistemas\Documents\App1\App1\bin\Debug\App1.dll.config
+C:\Users\Sistemas\Documents\App1\App1\bin\Debug\App1.dll
+C:\Users\Sistemas\Documents\App1\App1\bin\Debug\App1.pdb
+C:\Users\Sistemas\Documents\App1\App1\bin\Debug\App1.App1.apk
+C:\Users\Sistemas\Documents\App1\App1\bin\Debug\App1.App1-Signed.apk
+C:\Users\Sistemas\Documents\App1\App1\bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+C:\Users\Sistemas\Documents\App1\App1\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll
+C:\Users\Sistemas\Documents\App1\App1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Sistemas\Documents\App1\App1\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Sistemas\Documents\App1\App1\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Sistemas\Documents\App1\App1\bin\Debug\Microsoft.WindowsAzure.Mobile.xml
+C:\Users\Sistemas\Documents\App1\App1\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.xml
+C:\Users\Sistemas\Documents\App1\App1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Sistemas\Documents\App1\App1\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Sistemas\Documents\App1\App1\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Sistemas\Documents\App1\App1\obj\Debug\App1.csprojResolveAssemblyReference.cache
+C:\Users\Sistemas\Documents\App1\App1\obj\Debug\App1.dll
+C:\Users\Sistemas\Documents\App1\App1\obj\Debug\App1.pdb
+C:\Users\Sistemas\Documents\App1\App1\obj\Debug\android\bin\App1.App1.apk
+C:\Users\Sistemas\Documents\App1\App1\obj\Debug\res\layout\main.xml
+C:\Users\Sistemas\Documents\App1\App1\obj\Debug\res\values\strings.xml
+C:\Users\Sistemas\Documents\App1\App1\obj\Debug\res\drawable\icon.png
+C:\Users\Sistemas\Documents\App1\App1\obj\Debug\R.cs.flag
+C:\Users\Sistemas\Documents\App1\App1\obj\Debug\uploadflags.txt
+C:\Users\Sistemas\Documents\App1\App1\bin\Debug\App1.dll.mdb
+C:\Users\Sistemas\Documents\App1\App1\obj\Debug\android\assets\App1.dll.mdb
+C:\Users\Sistemas\Documents\App1\App1\bin\Debug\Java.Interop.dll.mdb
+C:\Users\Sistemas\Documents\App1\App1\bin\Debug\Microsoft.CSharp.dll.mdb
+C:\Users\Sistemas\Documents\App1\App1\bin\Debug\Mono.Android.dll.mdb
+C:\Users\Sistemas\Documents\App1\App1\bin\Debug\Mono.CSharp.dll.mdb
+C:\Users\Sistemas\Documents\App1\App1\bin\Debug\mscorlib.dll.mdb
+C:\Users\Sistemas\Documents\App1\App1\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\Sistemas\Documents\App1\App1\bin\Debug\System.Core.dll.mdb
+C:\Users\Sistemas\Documents\App1\App1\bin\Debug\System.dll.mdb
+C:\Users\Sistemas\Documents\App1\App1\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\Sistemas\Documents\App1\App1\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\Sistemas\Documents\App1\App1\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\Sistemas\Documents\App1\App1\bin\Debug\System.Xml.dll.mdb
+C:\Users\Sistemas\Documents\App1\App1\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Users\Sistemas\Documents\App1\App1\obj\Debug\App1.dll.mdb
+C:\Users\Sistemas\Documents\App1\App1\bin\Debug\App1.dll.mdb
